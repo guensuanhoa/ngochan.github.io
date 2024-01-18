@@ -1,0 +1,34 @@
+{
+  "id": 1,
+  "name": "Ôn tập",
+  "image": "assets/images/sidebar/clock.png",
+  "description": "ôn tập",
+  "is_purchased": true,
+  "last_play_game_id": "1",
+  "games": [
+    {
+      "id": 1,
+      "name": "ĐẬP BONG BÓNG 1",
+      "description": "ĐẬP BONG BÓNG 1 DESCRIPTION",
+      "iconImage": "game_icon_a.png",
+      "fullImage": "game_thumb_balloon.png",
+      "is_purchased": true
+    },
+    {
+      "id": 2,
+      "name": "ĐẬP BONG BÓNG 2",
+      "description": "ĐẬP BONG BÓNG 2 DESCRIPTION",
+      "iconImage": "game_icon_b.png",
+      "fullImage": "game_thumb_balloon.png",
+      "is_purchased": true
+    },
+    {
+      "id": 3,
+      "name": "ĐẬP BONG BÓNG 3",
+      "description": "ĐẬP BONG BÓNG 3 DESCRIPTION",
+      "iconImage": "game_icon_c.png",
+      "fullImage": "game_thumb_balloon.png",
+      "is_purchased": true
+    }
+  ]
+}

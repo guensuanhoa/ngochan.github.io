@@ -1,0 +1,59 @@
+{
+  "data": {
+    "figure_point": {
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "image": "https://i.pinimg.com/originals/04/f0/1a/04f01af9f1b2b2d8beca0313ef465796.gif"
+    },
+    "gift_points": [
+      {
+        "position": {
+          "x": 5,
+          "y": 5
+        },
+        "image": "https://static.vecteezy.com/system/resources/previews/014/456/391/non_2x/cartoon-easter-flower-png.png"
+      }
+    ],
+    "row": 5,
+    "column": 5,
+    "map": [
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "char_group": {
+      "level": 1,
+      "main_char": "a",
+      "sub_chars": [
+        "b",
+        "c",
+        "d",
+        "e"
+      ]
+    }
+  }
+}

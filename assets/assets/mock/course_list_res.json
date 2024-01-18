@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Ôn tập",
+      "image": "assets/images/sidebar/clock.png",
+      "description": "ôn tập",
+      "is_purchased": true,
+      "last_play_game_id": "1"
+    },
+    {
+      "id": 2,
+      "name": "Khóa học",
+      "image": "assets/images/sidebar/hat.png",
+      "description": "các khóa học",
+      "is_purchased": true,
+      "last_play_game_id": "1"
+    },
+    {
+      "id": 3,
+      "name": "Tài khoản",
+      "image": "assets/images/sidebar/kid.png",
+      "description": "Tài khoản của bé",
+      "is_purchased": true,
+      "last_play_game_id": "1"
+    },
+    {
+      "id": 4,
+      "name": "Cài đặt",
+      "image": "assets/images/sidebar/light.png",
+      "description": "Phụ huynh cài đặt",
+      "is_purchased": true,
+      "last_play_game_id": "1"
+    }
+  ]
+}
